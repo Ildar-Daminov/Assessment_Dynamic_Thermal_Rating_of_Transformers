@@ -15,7 +15,7 @@ There are two ways how you may run this code:
 I. Launching all calculations at once. This will reproduce all figures in the article but it would take 6-7 minutes:
 1. Copy this repository to your computer 
 2. Open the script main.m
-3. Launch the script "main.m" by clicking on the button "Run" (usually located at the top of MATLAB bar).\
+3. Launch the script "main.m" by clicking on the button "Run" (usually located at the top of MATLAB window).\
 As alternative, you may type ```main``` 
 in Command Window to launch the entire script. 
 
@@ -24,7 +24,7 @@ II. Launching the specific section of the code to reproduce the particular figur
 1. Copy this repository to your computer 
 2. Open the script main.m 
 3. Find the section (Plotting the Figure XX) corresponding to the Figure you would like to reproduce. 
-4. Put the cursor at any place of this section and click on the button "Run Section" (usually located at the top of MATLAB bar)
+4. Put the cursor at any place of this section and click on the button "Run Section" (usually located at the top of MATLAB window)
 
 
 ## Files description
