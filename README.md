@@ -2,7 +2,7 @@
 <img align="left" alt="Coding" width="65" src="https://ars.els-cdn.com/content/image/1-s2.0-S0142061521X00026-cov200h.gif">
 
   
-This repository shares the MATLAB code and data for the article 📋:\
+This repository shares the MATLAB code and data for the research article 📋:\
 I. Daminov, A. Prokhorov, R. Caire, M-C Alvarez-Herault, [“Assessment of dynamic transformer rating, considering current and temperature limitations”](https:\doi.org\10.1016\j.ijepes.2021.106886) in International Journal of Electrical Power & Energy Systems (IF: 3,588, Q1), 2021
   
   
