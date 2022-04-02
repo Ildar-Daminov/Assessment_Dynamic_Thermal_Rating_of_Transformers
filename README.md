@@ -37,6 +37,7 @@ Additional functions:
 * feasible_region_HST.m - this function computes the fesaible region per limitation of hot-spot temperature of windings
 * feasible_region_TOT.m - this function calculates the feasible region per the limitation of top-oil temperature in the tank
 * ONAF_transformer.m - a thermal model of ONAF power transformer (up to 100 MVA) per the loading guide IEC 60076-7. ONAF stand for a cooling system : Oil Natural Air Forced
+  
 More details are given inside of functions and script "main.m"
 
 Initial data:
