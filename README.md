@@ -43,14 +43,14 @@ More details are given inside of functions and script "main.m"
 Initial data:
 * data_Grenoble.mat - precalculated data [high loadings;mean loadings ;min loadings] in the city of Grenoble, France
 * data_Tomsk.mat - precalculated data [high loadings;mean loadings ;min loadings] in the city of Tomsk, Russia
-* Fig3_ambient_temperature.mat - a profile of ambient temperature used in Fig.3
-* Fig5_PUL_data.mat - 3 profiles of transformer loadings used in Fig.5
-* Fig6_ambient_temperature.mat - a profile of ambient temperature used in Fig.6
+* Fig3_ambient_temperature.mat - a profile of ambient temperature used in Fig.3 
+* Fig5_PUL_data.mat - 3 profiles of transformer loadings used in Fig.5 
+* Fig6_ambient_temperature.mat - a profile of ambient temperature used in Fig.6 
 * Fig7_ambient_temperature.mat - a profile of ambient temperature used in Fig.7
-* Fig8_ambient_temperature.mat - a profile of ambient temperature used in Fig.8
+* Fig8_ambient_temperature.mat - a profile of ambient temperature used in Fig.8 
 * HST_all.mat - precalculated hot spot temperature between transformer loadings (0.01:2 pu) and ambient temperatures(-50 °C : +50 °C)
-* T_history_Grenoble.mat - historical ambient temperature in Grenoble, France
-* T_history_Tomsk.mat - historical ambient temperature in Tomsk, Russia
+* T_history_Grenoble.mat - historical ambient temperature in Grenoble, France (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus))
+* T_history_Tomsk.mat - historical ambient temperature in Tomsk, Russia (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus))
 * TOT_all.mat precalculated top-oil temperature between transformer loadings (0.01:2 pu) and ambient temperatures(-50 °C : +50 °C)
 
 ## How to cite this article 
