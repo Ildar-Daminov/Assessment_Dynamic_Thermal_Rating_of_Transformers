@@ -48,8 +48,8 @@ Initial data:
 * Fig7_ambient_temperature.mat - a profile of ambient temperature used in Fig.7
 * Fig8_ambient_temperature.mat - a profile of ambient temperature used in Fig.8 
 * HST_all.mat - precalculated hot spot temperature between transformer loadings (0.01:2 pu) and ambient temperatures(-50 °C : +50 °C)
-* T_history_Grenoble.mat - historical ambient temperature in Grenoble, France (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus))
-* T_history_Tomsk.mat - historical ambient temperature in Tomsk, Russia (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus))
+* T_history_Grenoble.mat - historical ambient temperature in Grenoble, France ([weather data](https://www.meteoblue.com/en/historyplus) provided by [meteoblue](https://www.meteoblue.com/))
+* T_history_Tomsk.mat - historical ambient temperature in Tomsk, Russia ([weather data](https://www.meteoblue.com/en/historyplus) provided by [meteoblue](https://www.meteoblue.com/))
 * TOT_all.mat precalculated top-oil temperature between transformer loadings (0.01:2 pu) and ambient temperatures(-50 °C : +50 °C)
 
 ## How to cite this article 
