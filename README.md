@@ -1,4 +1,6 @@
 [![DOI](https://zenodo.org/badge/416075142.svg)](https://zenodo.org/doi/10.5281/zenodo.12509817)
+[![DOI:10.1016/j.ijepes.2021.106886](http://img.shields.io/badge/DOI-10.1016/j.ijepes.2021.106886-B31B1B.svg)](https://doi.org/10.1016/j.ijepes.2021.106886)
+
 # Assessment of dynamic transformers rating, considering the current and temperature limitations
 <img align="left" alt="Coding" width="65" src="https://ars.els-cdn.com/content/image/1-s2.0-S0142061521X00026-cov200h.gif">
 
